@@ -1,0 +1,6 @@
+.idea/
+go-client
+go-server
+client_log.txt
+server_log.txt
+filesystem_dump.csv
